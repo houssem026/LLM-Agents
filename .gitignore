@@ -13,3 +13,5 @@ build/
 .idea/
 .vscode/
 *.log
+notepad.notepad
+agents/ai_blog_to_podcast_agent/voices/

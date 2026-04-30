@@ -1,0 +1,7 @@
+agno
+numpy<2
+ollama
+openai
+piper-tts
+streamlit
+trafilatura
