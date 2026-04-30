@@ -10,6 +10,10 @@ Workspace for collaborating on agent-specific projects, prompts, experiments, an
 - `experiments/`: prototypes, evaluations, and scratch projects worth tracking.
 - `docs/`: documentation, decisions, and setup notes.
 
+## Agent Workspaces
+
+- `agents/ai_blog_to_podcast_agent/`: local Streamlit agent that turns public blog URLs into WAV podcast episodes with Agno, Ollama, trafilatura, and Piper. See `agents/ai_blog_to_podcast_agent/README.md` for architecture and technical choices.
+
 ## Git Workflow
 
 1. Create or edit files in the relevant folder.
